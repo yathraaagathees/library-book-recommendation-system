@@ -1,0 +1,21 @@
+title,author,genre,description,tags,rating
+Python Crash Course,Eric Matthes,Programming,"A hands-on introduction to Python programming, projects, data structures, testing, and practical coding.",python coding beginner programming software,4.7
+Automate the Boring Stuff with Python,Al Sweigart,Programming,"Learn Python by automating everyday tasks, working with files, spreadsheets, web data, and repetitive workflows.",python automation beginner scripting,4.6
+Learning Python,Mark Lutz,Programming,"A detailed guide to Python language fundamentals, objects, functions, modules, and advanced programming concepts.",python programming language objects,4.4
+Head First Java,Kathy Sierra and Bert Bates,Programming,"A visual and beginner-friendly introduction to Java, object-oriented programming, classes, and software development.",java programming object oriented beginner,4.5
+Effective Java,Joshua Bloch,Programming,"Practical guidance for writing robust, maintainable Java programs using proven programming practices.",java programming best practices software,4.8
+Clean Code,Robert C. Martin,Software Engineering,"Principles and examples for writing readable, maintainable, and well-structured software.",software engineering clean coding programming,4.7
+The Pragmatic Programmer,Andrew Hunt and David Thomas,Software Engineering,A practical collection of techniques for improving software development skills and building reliable systems.,software engineering programming developer,4.7
+Hands-On Machine Learning,Aurélien Géron,Machine Learning,"An applied introduction to machine learning concepts, model training, neural networks, and practical Python workflows.",machine learning python artificial intelligence data,4.8
+Pattern Recognition and Machine Learning,Christopher M. Bishop,Machine Learning,"A mathematical introduction to pattern recognition, probabilistic models, and machine learning methods.",machine learning mathematics statistics artificial intelligence,4.5
+Data Science from Scratch,Joel Grus,Data Science,"An introduction to data science concepts using Python, including statistics, data analysis, and machine learning.",data science python statistics machine learning,4.3
+The Silent Patient,Alex Michaelides,Mystery,A psychological mystery about a painter whose silence follows a shocking event and the therapist trying to understand it.,mystery thriller psychology suspense fiction,4.2
+Gone Girl,Gillian Flynn,Mystery,"A suspenseful mystery exploring a troubled marriage, unreliable perspectives, and a disappearance.",mystery thriller suspense crime fiction,4.1
+The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,A journalist and a skilled investigator work together to solve a decades-old disappearance.,mystery crime thriller investigation fiction,4.4
+The Alchemist,Paulo Coelho,Fiction,A young shepherd travels in search of a treasure and discovers lessons about purpose and personal dreams.,fiction adventure inspiration journey,4.3
+The Book Thief,Markus Zusak,Fiction,"A moving story set during World War II, following a young girl who finds comfort and courage through books.",historical fiction books war friendship,4.6
+Pride and Prejudice,Jane Austen,Classic,"A classic novel about family, first impressions, social expectations, and relationships.",classic romance literature family,4.5
+Atomic Habits,James Clear,Self-Help,"A practical guide to building good habits, breaking unwanted habits, and making small improvements consistently.",self help habits productivity personal development,4.7
+The 7 Habits of Highly Effective People,Stephen R. Covey,Self-Help,"A personal development guide focused on principles, priorities, relationships, and effectiveness.",self help productivity leadership personal development,4.5
+A Brief History of Time,Stephen Hawking,Science,"An accessible exploration of cosmology, space, time, black holes, and the origins of the universe.",science physics astronomy universe,4.4
+The Gene,Siddhartha Mukherjee,Science,"A history and explanation of genetics, heredity, and the scientific understanding of genes.",science biology genetics medicine,4.5
